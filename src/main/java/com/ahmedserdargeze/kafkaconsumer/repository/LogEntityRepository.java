@@ -1,6 +1,6 @@
-package com.ahmedgeze.consumer.repository;
+package com.ahmedserdargeze.kafkaconsumer.repository;
 
-import com.ahmedgeze.consumer.entity.LogEntity;
+import com.ahmedserdargeze.kafkaconsumer.entity.LogEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

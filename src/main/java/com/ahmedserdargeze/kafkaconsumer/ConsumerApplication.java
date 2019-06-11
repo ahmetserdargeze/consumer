@@ -1,7 +1,7 @@
-package com.ahmedgeze.consumer;
+package com.ahmedserdargeze.kafkaconsumer;
 
-import com.ahmedgeze.consumer.entity.LogEntity;
-import com.ahmedgeze.consumer.repository.LogEntityRepository;
+import com.ahmedserdargeze.kafkaconsumer.entity.LogEntity;
+import com.ahmedserdargeze.kafkaconsumer.repository.LogEntityRepository;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;

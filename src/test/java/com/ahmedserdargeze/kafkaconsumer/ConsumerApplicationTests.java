@@ -1,4 +1,4 @@
-package com.ahmedgeze.consumer;
+package com.ahmedserdargeze.kafkaconsumer;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

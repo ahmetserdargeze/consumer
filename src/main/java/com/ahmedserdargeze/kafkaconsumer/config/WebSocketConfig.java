@@ -1,4 +1,4 @@
-package com.ahmedgeze.consumer.config;
+package com.ahmedserdargeze.kafkaconsumer.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.simp.config.MessageBrokerRegistry;

@@ -1,4 +1,4 @@
-package com.ahmedgeze.consumer.config;
+package com.ahmedserdargeze.kafkaconsumer.config;
 
 
 import org.apache.kafka.clients.consumer.ConsumerConfig;
